@@ -12,7 +12,9 @@ Jak stworzyć kanał RSS?
 2. Przekopiuj link z pola adresu WWW przeglądarki, w którym będą umieszczone parametry wyszukiwania.
 ![alt tag](https://raw.githubusercontent.com/MK-PL/AllegroRSS/master/img/img2.png)
 3. Wprowadź adres do wskazanego pola na stronie internetowej skryptu i naciśnij przycisk "Generuj".
+![alt tag](https://raw.githubusercontent.com/MK-PL/AllegroRSS/master/img/img3.png)
 4. Zostanie wygenerowany kanał RSS z aukcjami o podanych parametrach wyszukiwaniach, jak w podanym adresie do serwisie Allegro.
+![alt tag](https://raw.githubusercontent.com/MK-PL/AllegroRSS/master/img/img4.png)
 
 Co zostało użyte do zrobienia Allegro RSS?
 -
