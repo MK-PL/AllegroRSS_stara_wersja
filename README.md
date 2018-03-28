@@ -1,3 +1,7 @@
+# UWAGA
+
+Ta wersja obecnie nie działa, ponieważ Allegro teraz ładuje aukcje na stronie w JavaScript. Mój skrypt został napisany w PHP i polegał na odczytywaniu informacji z drzewa DOM pliku HTML - jako że te informacje o aukcjach są teraz niedostępne w PHP, skrypt ich nie odczyta. Projekt zostawiam do wglądu jako archiwum. Zapraszam na stronę nowszej wersji skryptu napisanej w Node.js (JavaScript) - https://github.com/MK-PL/AllegroRSS
+
 # Allegro RSS
 Allegro RSS jest generatorem kanału RSS, który w porównaniu do standardowego generatora Allegro.pl, pozwala również na spersonalizowanie wszystkich parametrów wyszukiwania.
 
